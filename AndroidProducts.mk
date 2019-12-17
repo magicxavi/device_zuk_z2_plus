@@ -14,8 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_z2_plus.mk
+    $(LOCAL_DIR)/xtended_z2_plus.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_z2_plus-userdebug \
-    arrow_z2_plus-eng
+    xtended_z2_plus-userdebug \
